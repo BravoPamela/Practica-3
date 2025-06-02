@@ -142,8 +142,6 @@ public class Autos {
         }
         return distancia / velocidadActual;
     }
-    public void mostrarvalores(){
-    }
 
     public void imprimir(){
         System.out.println("Marca: "+marca);
