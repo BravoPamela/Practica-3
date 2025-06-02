@@ -9,16 +9,16 @@ package com.mycompany.automovill.Autos;
  * @author User
  */
 public class Autos {
-    public String marca; 
-    public int modelo;
-    public float motor;
-    public TipoCombustible tipoCombustible;  
-    public TipoAutomovil tipoAutomovil;
-    public int numeroPuertas;
-    public int cantidadAsientos;
-    public float velocidadMaxima;
-    public Color color;
-    public float velocidadActual;
+    private String marca; 
+    private int modelo;
+    private float motor;
+    private TipoCombustible tipoCombustible;  
+    private TipoAutomovil tipoAutomovil;
+    private int numeroPuertas;
+    private int cantidadAsientos;
+    private float velocidadMaxima;
+    private Color color;
+    private float velocidadActual;
     
     public Autos (String marca, int modelo, float motor, TipoCombustible tipoCombustible, TipoAutomovil tipoAutomovil, int numeroPuertas, int cantidadAsientos, float velocidadMaxima, Color color, float velocidadActual){
     
