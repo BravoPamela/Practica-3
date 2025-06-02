@@ -25,7 +25,7 @@ public class Automovill {
         Automovil.setnumeroPuertas(4);
         Automovil.setcantidadAsientos(6);
         Automovil.setVelocidadMaxima(520);
-        Automovil.setVelocidadActual(150);
+        Automovil.setVelocidadActual(100);
         
         System.out.println("Marca: "+Automovil.getMarca());
         System.out.println("Modelo: "+Automovil.getModelo());
